@@ -1,0 +1,30 @@
+
+服务端：
+php5 + mysql 构建rest api
+
+客户端:
+用户使用：小程序，ios，android，单页面  ---复杂
+运营使用：cms（用来数据管理）            —简单
+
+现在的架构fauna 用户的api
+bauna 商家的api加后台管理
+cauna 运营的api加后台管理
+
+问题：cms用的api和小程序用的api都写在一起吗？
+
+token
+接口有作用域
+适用范围更广泛
+
+web框架核心（路由，控制器，模型orm）
+
+泛化的web，网站不是web的全部，只是web的一小部分
+
+
+前端觉不等于界面和特效，前端和服务器在编程思维上的差异已经越来越小
+
+
+如果某些功能太难实现了，可以用第三方组件，有没有破坏自己代码的结构
+
+
+http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
