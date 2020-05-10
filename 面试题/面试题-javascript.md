@@ -922,7 +922,7 @@ console.log(a[b])
 
 <details><summary><b>答案</b></summary>
 <p>
-
+[js拷贝](https://github.com/zbjcool/lean-code/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%89%8D%E7%AB%AF/javascript/js%E6%8B%B7%E8%B4%9D.md)
 
 </p>
 </details>
